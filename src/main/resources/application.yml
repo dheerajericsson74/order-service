@@ -2,9 +2,9 @@ server:
   port: 9002   
 spring:
   datasource:
-    url: jdbc:postgresql://order-service.c0gyt9kjte0h.us-east-1.rds.amazonaws.com:5432/order-service
-    username: root
-    password: eclipse123
+    url: jdbc:postgresql://order-service.xyz:5432/order-service
+    username: 
+    password: 
     initialization-mode: always
   jpa:
     properties:
